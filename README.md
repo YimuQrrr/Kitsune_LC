@@ -6,24 +6,14 @@
 > A MelonLoader mod for Lethal Company ⭐
 ```
 
-<img align="left" src="img/OSC_X.gif" width="255px"/>
+<img align="left" src="img/Sh_1.png" width="255px"/>
 
 ```zsh
-> /help          --  Help
-
-> /midi s        --  Scan MIDI devices
-> /midi c        --  Connect first MIDI
-> /midi c [ ]    --  Custom MIDI connection
-> /midi d        --  Disconnect MIDI device
-
-> /osc s         --  Start OSC scan server
-> /osc d         --  Shutdown OSC server
-> /osc t         --  OSC address test
-
-> /open vrc      --  Open VRChat
-> /kill vrc      --  Taskkill VRChat
-
-> /exit          --  Exit
+> Available commands:
+> /Helmet  on/off - Turn on/off the helmet model
+> /iSprint  on/off - Turn on/off infiniteSprint
+> /iBattery  on/off - Turn on/off infiniteBattery
+> /iSpeed  on/off - Turn on/off SpeedCheating
 ```
 
 <h2 align="center"> </h2>
