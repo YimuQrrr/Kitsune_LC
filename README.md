@@ -6,7 +6,7 @@
 > A MelonLoader mod that operates by entering commands into the game chat box for Lethal Company ⭐
 ```
 
-<img align="left" src="img/Sh_1.png" width="258px"/>
+<img align="left" src="img/Sh_1.png" width="259px"/>
 
 ```zsh
        _ _                            __    ___
