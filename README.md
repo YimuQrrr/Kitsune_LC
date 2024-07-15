@@ -7,6 +7,7 @@
 ```
 
 <img align="left" src="img/Sh_1.png" width="255px"/>
+
 ```zsh
        _ _                            __    ___
   /\ /(_) |_ ___ _   _ _ __   ___    / /   / __\
