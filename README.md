@@ -30,7 +30,14 @@
 ```
 
 ```zsh
-  
+       _ _                            __    ___
+  /\ /(_) |_ ___ _   _ _ __   ___    / /   / __\
+ / //_/ | __/ __| | | | '_ \ / _ \  / /   / /
+/ __ \| | |_\__ \ |_| | | | |  __/ / /___/ /___
+\/  \/|_|\__|___/\__,_|_| |_|\___| \____/\____/
+
+
+>>> Type /help in game chat box to start
 ```
 [XToys Lethal Company OSC to DG](https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U)
 
