@@ -9,10 +9,6 @@
 <img align="left" src="img/Sh_1.png" width="255px"/>
 
 ```zsh
-> Available commands:
-```
-
-```zsh
 > /Helmet  on/off - Turn on/off the helmet model
 ```
 
