@@ -3,7 +3,7 @@
 <h2 align="center"> ✨ Kitsune_LC ✨ </h2>
 
 ```zsh
-> A MelonLoader mod for Lethal Company ⭐
+> A MelonLoader mod that operates by entering commands into the game chat box for Lethal Company ⭐
 ```
 
 <img align="left" src="img/Sh_1.png" width="255px"/>
