@@ -26,7 +26,8 @@
 
 ```zsh
 > and.. A feature that transmits received damage to Xtoy
-  Requires Xtoy script:https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U
+  Requires Xtoy script
 ```
+[XToys Lethal Company OSC to DG](https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U)
 
 <h2 align="center"> 🧡 END 🧡 </h2>
