@@ -29,7 +29,7 @@
 ```
 
 ```zsh
-> and.. A feature that transmits received damage to Xtoy   ! Requires Xtoy script !
+> and.. A feature that transmits received damage to Xtoy
 ```
 
 🔗 Xtoy script: [XToys Lethal Company OSC to DG](https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U)
