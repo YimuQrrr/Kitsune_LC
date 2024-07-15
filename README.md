@@ -9,19 +9,24 @@
 <img align="left" src="img/Sh_1.png" width="255px"/>
 
 ```zsh
-> /Helmet  on/off - Turn on/off the helmet model
+> /Helmet  on/off - Turn on/off the helmet model  ⭐
 ```
 
 ```zsh
-> /iSprint  on/off - Turn on/off infiniteSprint
+> /iSprint  on/off - Turn on/off infiniteSprint  ⭐
 ```
 
 ```zsh
-> /iBattery  on/off - Turn on/off infiniteBattery
+> /iBattery  on/off - Turn on/off infiniteBattery  ⭐
 ```
 
 ```zsh
-> /iSpeed  on/off - Turn on/off SpeedCheating
+> /iSpeed  on/off - Turn on/off SpeedCheating  ⭐
+```
+
+```zsh
+> and.. A feature that transmits received damage to Xtoy
+  Requires Xtoy script:https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U
 ```
 
 <h2 align="center"> 🧡 END 🧡 </h2>
