@@ -7,28 +7,6 @@
 ```
 
 <img align="left" src="img/Sh_1.png" width="255px"/>
-
-```zsh
-> /Helmet  on/off - Turn on/off the helmet model  ⭐
-```
-
-```zsh
-> /iSprint  on/off - Turn on/off infiniteSprint  ⭐
-```
-
-```zsh
-> /iBattery  on/off - Turn on/off infiniteBattery  ⭐
-```
-
-```zsh
-> /iSpeed  on/off - Turn on/off SpeedCheating  ⭐
-```
-
-```zsh
-> and.. A feature that transmits received damage to Xtoy
-  ! Requires Xtoy script
-```
-
 ```zsh
        _ _                            __    ___
   /\ /(_) |_ ___ _   _ _ __   ___    / /   / __\
@@ -39,6 +17,20 @@
 
 >>> Type /help in game chat box to start
 ```
+
+```zsh
+> /Helmet  on/off - Turn on/off the helmet model  ⭐
+> /iSpeed  on/off - Turn on/off SpeedCheating  ⭐
+> /iBattery  on/off - Turn on/off infiniteBattery  ⭐
+> /iSprint  on/off - Turn on/off infiniteSprint  ⭐
+```
+
+```zsh
+> and.. A feature that transmits received damage to Xtoy
+  ! Requires Xtoy script
+```
+
+
 [XToys Lethal Company OSC to DG](https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U)
 
 <h2 align="center"> 🧡 END 🧡 </h2>
