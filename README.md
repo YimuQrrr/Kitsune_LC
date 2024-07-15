@@ -10,13 +10,21 @@
 
 ```zsh
 > Available commands:
+```
 
+```zsh
 > /Helmet  on/off - Turn on/off the helmet model
+```
 
+```zsh
 > /iSprint  on/off - Turn on/off infiniteSprint
+```
 
+```zsh
 > /iBattery  on/off - Turn on/off infiniteBattery
+```
 
+```zsh
 > /iSpeed  on/off - Turn on/off SpeedCheating
 ```
 
